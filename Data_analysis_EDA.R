@@ -1,6 +1,3 @@
-# Set working directory
-setwd("N:/uolstore/Research/b/b0168/Data/proj3/Data Analysis")
-
 #### Load required libraries ####
 library(dplyr)
 library(tidyr)
