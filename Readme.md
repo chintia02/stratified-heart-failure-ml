@@ -21,7 +21,7 @@ This project is organized into two main scripts that cover the entire research w
 
 To run the code in this repository, you need to have the following software and R packages installed:
 
-* **R** (version 4.4.2 or later recommended)
+* **R** (version 4.4.2 or later)
 
 The following R packages are also required. You can install them by running this command in your R console:
 
